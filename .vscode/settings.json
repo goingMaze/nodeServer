@@ -1,0 +1,9 @@
+{
+	// 按 "Tab" 时插入空格。
+	"editor.insertSpaces": true,
+	// 当打开文件时，将基于文件内容检测 "editor.tabSize" 和 "editor.insertSpaces"。
+	"editor.detectIndentation": false,
+	// 检查工作区中的 TypeScript 版本是否可用。
+	"typescript.check.workspaceVersion": false,
+	"vsicons.presets.angular": false
+}
